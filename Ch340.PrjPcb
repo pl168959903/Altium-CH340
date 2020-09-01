@@ -1,4 +1,4 @@
-[Design]
+﻿[Design]
 Version=1.0
 HierarchyMode=0
 ChannelRoomNamingStyle=0
@@ -71,106 +71,6 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=MEYXQLFJ
 
-[GeneratedDocument1]
-DocumentPath=Project Outputs for Ch340\PCB-RoundHoles.TXT
-DItemRevisionGUID=
-
-[GeneratedDocument2]
-DocumentPath=Project Outputs for Ch340\PCB-SlotHoles.TXT
-DItemRevisionGUID=
-
-[GeneratedDocument3]
-DocumentPath=Project Outputs for Ch340\PCB.1
-DItemRevisionGUID=
-
-[GeneratedDocument4]
-DocumentPath=Project Outputs for Ch340\PCB.DRR
-DItemRevisionGUID=
-
-[GeneratedDocument5]
-DocumentPath=Project Outputs for Ch340\PCB.EXTREP
-DItemRevisionGUID=
-
-[GeneratedDocument6]
-DocumentPath=Project Outputs for Ch340\PCB.GBL
-DItemRevisionGUID=
-
-[GeneratedDocument7]
-DocumentPath=Project Outputs for Ch340\PCB.GBO
-DItemRevisionGUID=
-
-[GeneratedDocument8]
-DocumentPath=Project Outputs for Ch340\PCB.GBP
-DItemRevisionGUID=
-
-[GeneratedDocument9]
-DocumentPath=Project Outputs for Ch340\PCB.GBS
-DItemRevisionGUID=
-
-[GeneratedDocument10]
-DocumentPath=Project Outputs for Ch340\PCB.GKO
-DItemRevisionGUID=
-
-[GeneratedDocument11]
-DocumentPath=Project Outputs for Ch340\PCB.GM1
-DItemRevisionGUID=
-
-[GeneratedDocument12]
-DocumentPath=Project Outputs for Ch340\PCB.GM2
-DItemRevisionGUID=
-
-[GeneratedDocument13]
-DocumentPath=Project Outputs for Ch340\PCB.GM3
-DItemRevisionGUID=
-
-[GeneratedDocument14]
-DocumentPath=Project Outputs for Ch340\PCB.GM4
-DItemRevisionGUID=
-
-[GeneratedDocument15]
-DocumentPath=Project Outputs for Ch340\PCB.GM5
-DItemRevisionGUID=
-
-[GeneratedDocument16]
-DocumentPath=Project Outputs for Ch340\PCB.GM6
-DItemRevisionGUID=
-
-[GeneratedDocument17]
-DocumentPath=Project Outputs for Ch340\PCB.GM7
-DItemRevisionGUID=
-
-[GeneratedDocument18]
-DocumentPath=Project Outputs for Ch340\PCB.GML
-DItemRevisionGUID=
-
-[GeneratedDocument19]
-DocumentPath=Project Outputs for Ch340\PCB.GTL
-DItemRevisionGUID=
-
-[GeneratedDocument20]
-DocumentPath=Project Outputs for Ch340\PCB.GTO
-DItemRevisionGUID=
-
-[GeneratedDocument21]
-DocumentPath=Project Outputs for Ch340\PCB.GTP
-DItemRevisionGUID=
-
-[GeneratedDocument22]
-DocumentPath=Project Outputs for Ch340\PCB.GTS
-DItemRevisionGUID=
-
-[GeneratedDocument23]
-DocumentPath=Project Outputs for Ch340\PCB.LDP
-DItemRevisionGUID=
-
-[GeneratedDocument24]
-DocumentPath=Project Outputs for Ch340\PCB.REP
-DItemRevisionGUID=
-
-[GeneratedDocument25]
-DocumentPath=Project Outputs for Ch340\PCB.RUL
-DItemRevisionGUID=
-
 [Configuration1]
 Name=Sources
 ParameterCount=0
@@ -184,7 +84,7 @@ ConfigurationType=Source
 [OutputGroup1]
 Name=Netlist Outputs
 Description=
-TargetPrinter=\\140.130.35.237\m225
+TargetPrinter=FX DocuPrint M225 dw
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputType1=CadnetixNetlist
 OutputName1=Cadnetix Netlist
@@ -290,7 +190,7 @@ OutputDefault20=0
 [OutputGroup2]
 Name=Simulator Outputs
 Description=
-TargetPrinter=\\140.130.35.237\m225
+TargetPrinter=FX DocuPrint M225 dw
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 
 [OutputGroup3]
@@ -368,7 +268,7 @@ PageOptions11=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|Print
 [OutputGroup4]
 Name=Assembly Outputs
 Description=
-TargetPrinter=\\140.130.35.237\m225
+TargetPrinter=FX DocuPrint M225 dw
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputType1=Assembly
 OutputName1=Assembly Drawings
@@ -390,7 +290,7 @@ OutputDefault3=0
 [OutputGroup5]
 Name=Fabrication Outputs
 Description=
-TargetPrinter=\\140.130.35.237\m225
+TargetPrinter=FX DocuPrint M225 dw
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputType1=NC Drill
 OutputName1=NC Drill Files
@@ -470,7 +370,7 @@ Configuration12_Item2=AddToAllLayerClasses.Set= |AddToAllPlots.Set=SerializeLaye
 [OutputGroup6]
 Name=Report Outputs
 Description=
-TargetPrinter=\\140.130.35.237\m225
+TargetPrinter=FX DocuPrint M225 dw
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputType1=BOM_PartType
 OutputName1=Bill of Materials
@@ -507,7 +407,7 @@ OutputDefault6=0
 [OutputGroup7]
 Name=Other Outputs
 Description=
-TargetPrinter=\\140.130.35.237\m225
+TargetPrinter=FX DocuPrint M225 dw
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputType1=Text Print
 OutputName1=Text Print
@@ -687,7 +587,7 @@ PageOptions29=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|Print
 [OutputGroup8]
 Name=Validation Outputs
 Description=
-TargetPrinter=\\140.130.35.237\m225
+TargetPrinter=FX DocuPrint M225 dw
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputType1=BOM_Violations
 OutputName1=BOM Checks Report
@@ -731,7 +631,7 @@ OutputDefault7=0
 [OutputGroup9]
 Name=Export Outputs
 Description=
-TargetPrinter=\\140.130.35.237\m225
+TargetPrinter=FX DocuPrint M225 dw
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputType1=AutoCAD dwg/dxf PCB
 OutputName1=AutoCAD dwg/dxf File PCB
@@ -792,7 +692,7 @@ OutputDefault11=0
 [OutputGroup10]
 Name=PostProcess Outputs
 Description=
-TargetPrinter=\\140.130.35.237\m225
+TargetPrinter=FX DocuPrint M225 dw
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputType1=Copy Files
 OutputName1=Copy Files
